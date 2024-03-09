@@ -1,6 +1,7 @@
 body{
     position: relative;
     background-image: url("./jsloginbackgrnd.jpg");
+    background: blue;
     background-size: cover;
     
 }
